@@ -1,0 +1,44 @@
+body {
+  color: #394867;
+  background-color: #f1f6f9;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;;
+  font-size: 14px;
+  font-variant: normal;
+  line-height: 20px;
+}
+
+h1{
+  color: #394867;
+}
+
+h2{
+  color: #394867;
+}
+
+h3{
+  color: #394867;
+}
+
+h4{
+  color: #394867;
+}
+
+th{
+  text-align: left;
+  padding: 10px ;
+  text-transform: uppercase;
+}
+
+td{
+  padding: 10px ;
+}
+
+hr {
+  border-style: none;
+  height: 5px;
+  width: 10%;
+  background-image: linear-gradient(to right, #14274E 20%, rgba(255,255,255,0) 0%);
+  background-position: top;
+  background-size: 25px 5px;
+  background-repeat: repeat-x;
+}
